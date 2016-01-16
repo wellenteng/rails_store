@@ -1,0 +1,2 @@
+# rails_store
+rails_store_with_braintree
