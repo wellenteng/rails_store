@@ -219,6 +219,7 @@ DEPENDENCIES
   jquery-rails
   mini_magick
   minitest-rails
+  pry
   pry-rails
   puma
   rails (= 4.2.5)

@@ -36,6 +36,7 @@ gem 'puma'
 gem 'devise'
 gem 'country_select'
 gem 'braintree'
+gem 'pry'
 
 group :test do
   gem 'minitest-rails'
